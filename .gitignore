@@ -1,0 +1,11 @@
+.gradle/
+build/
+.idea/
+.kotlin/
+*.iml
+out/
+
+# Documentos internos
+ERRORES.md
+ESTUDIO_2.md
+*.pdf
